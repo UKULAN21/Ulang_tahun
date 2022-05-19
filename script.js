@@ -12,7 +12,7 @@ function nonTo() {document.getElementById('tombo').style.display = "none";} func
   var o=0,text3;
   text3 = "...                                        "
   var a=0,text4;
-  text4 = "I Love U "
+  text4 = "maaf baruh ngucapin "
 
   function ketik() {
     if(i<text.length){
